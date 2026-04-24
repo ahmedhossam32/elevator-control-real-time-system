@@ -1,0 +1,16 @@
+# NetBeans
+nbproject/private/
+build/
+dist/
+*.class
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
